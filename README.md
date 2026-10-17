@@ -1,8 +1,11 @@
-# Android Forensic Toolkit (AFT)
+<img width="1739" height="904" alt="image" src="https://github.com/user-attachments/assets/d0e31132-3bfc-4361-b90f-448583e43fce" /># Android Forensic Toolkit (AFT)
 
 **A Flask-Based Android Digital Forensics Dashboard for Data Acquisition, Artifact Examination, and Evidence Reporting**
 
 ## Overview
+<img width="1739" height="904" alt="image" src="https://github.com/user-attachments/assets/a200cbd1-415e-4085-bb1c-7ed343bf5c4b" />
+
+
 
 Android Forensic Toolkit (AFT) is a Python-based digital forensics project that provides a web dashboard for examining selected Android device artifacts, organizing case information, and generating forensic reports.
 
