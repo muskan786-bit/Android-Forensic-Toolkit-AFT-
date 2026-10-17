@@ -1,5 +1,4 @@
-<img width="1739" height="904" alt="image" src="https://github.com/user-attachments/assets/d0e31132-3bfc-4361-b90f-448583e43fce" /># Android Forensic Toolkit (AFT)
-
+Android Forensic Toolkit (AFT)
 **A Flask-Based Android Digital Forensics Dashboard for Data Acquisition, Artifact Examination, and Evidence Reporting**
 
 ## Overview
